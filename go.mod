@@ -1,4 +1,4 @@
-module github.com/ssr0016/goBank
+module goBank/main.go
 
 go 1.21.3
 
